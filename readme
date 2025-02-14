@@ -1,0 +1,65 @@
+# Study MBBS Abroad Landing Page
+
+This is a responsive landing page for "Study MBBS Abroad" built as part of a Front-End Development Intern application for University Insights. The page showcases top MBBS study destinations, key benefits of studying abroad, and includes a lead generation form with validation.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Installation & Setup](#installation--setup)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [License](#license)
+
+## Demo
+
+A live demo of the landing page can be viewed [here](#)  
+*(Replace the link with your live demo URL on Netlify/Vercel.)*
+
+## Features
+
+- **Hero Section:**  
+  - Dynamic background image with engaging headlines and a call-to-action (CTA) button.
+- **Why Study MBBS Abroad Section:**  
+  - Lists key benefits such as affordable tuition, global recognition, and modern infrastructure.
+- **Top Countries Section:**  
+  - Evenly distributed cards for popular MBBS study destinations.
+- **Lead Generation Form:**  
+  - A form that collects user details with real-time JavaScript validation.
+- **Responsive Design:**  
+  - Fully responsive layout built using Tailwind CSS.
+- **SEO & Performance:**  
+  - Optimized with meta tags and tracking code for Google Analytics and Facebook Pixel.
+
+## Technologies Used
+
+- **HTML5**
+- **Tailwind CSS**
+- **JavaScript**
+- **Git & GitHub**
+- **Netlify/Vercel** (for deployment)
+
+## Project Structure
+
+study-mbbs-abroad-landing-page/
+├── index.html            # Main HTML file
+├── script.js             # JavaScript file for form validation and interactivity
+├── styles.css            # Optional custom CSS file (if using local Tailwind setup)
+├── assets/
+│   └── images/
+│       └── hero-bg.jpg   # Hero section background image
+├── README.md             # Project documentation file
+
+
+## Installation & Setup
+
+git clone https://github.com/your-username/study-mbbs-abroad-landing-page.git
+cd study-mbbs-abroad-landing-page
+
+## Setup Tailwind CSS:
+You can use the CDN for quick setup by including the following script in your <head> of index.html:
+    <script src="https://cdn.tailwindcss.com"></script>
+
+
