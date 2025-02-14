@@ -62,4 +62,33 @@ cd study-mbbs-abroad-landing-page
 You can use the CDN for quick setup by including the following script in your <head> of index.html:
     <script src="https://cdn.tailwindcss.com"></script>
 
+## Open the Project:
 
+Open index.html in your web browser to see the landing page.
+
+
+## Deployment on Netlify:
+Push your code to GitHub.
+Connect your repository to Netlify and deploy.
+
+
+## Usage
+### Hero Section:
+Displays a captivating background image with a bold headline, supportive subheading, and a strong CTA that directs users to the lead generation form.
+
+### Country Cards:
+The "Top Countries" section uses a responsive grid layout to evenly distribute country cards, each displaying a flag and country name.
+
+### Lead Generation Form:
+The form includes fields for Name, Email, Phone, and Country Preference. JavaScript is used for validating the form inputs before submission.
+
+### Interactivity & Responsiveness:
+Tailwind CSS ensures that the page is responsive across different devices, while JavaScript enhances interactivity.
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+---
+
+Feel free to customize this **README.md** file to match your project's specific details and deployment information.
+---
